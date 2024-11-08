@@ -1,0 +1,26 @@
+header{
+    color: white;
+    background-color: black;
+}
+.red{
+    background-color: red;
+    
+}
+.news{
+    background-color: lightblue;
+    border: 3px solid black;
+    width: 500px;
+    margin: 30px;
+    padding: 20px;
+}
+.rodape{
+    background-color: white;
+}
+
+.top-0{
+    margin-top: 0;
+}
+
+.top-1{
+    margin: 0;
+}

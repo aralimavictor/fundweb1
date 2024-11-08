@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding  = "utf-8" ?>
+<curriculo>
+    <dados_pessoais>
+        <nome>victor lima</nome>
+        <endereco>rua carlos soares de menezes, 25, carmo - rj</endereco>
+        <email>victor_xz@protonmail.com</email>
+        <tel>22996025554</tel>
+        <m.sociais>ig: aralimavictor</m.sociais>
+        <nascimento>13/04/2001</nascimento>
+    </dados_pessoais>
+
+
+    <formacao_academica>
+        <curso>sistemas de informação</curso>
+        <instituicao>CEFET/RJ</instituicao>
+        <modalidade>presencial</modalidade>
+        <duracao>só deus sabe</duracao>
+     <tipo>bacharel</tipo>
+    </formacao_academica>
+
+    <experiencias>
+        <Cargo>técnico de planejamento e manutencão</Cargo>
+        <empresa>sumicity</empresa>
+        <periodo>1 ano e 2 meses</periodo>
+        <habilidade>tudo que solicitado</habilidade>
+    </experiencias>
+
+</curriculo>
